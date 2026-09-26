@@ -135,7 +135,7 @@ body {
   top: -58px;
   right: -30px;
   opacity: 0;
-  animation: hatIn .8s ease 6.6s forwards, hatWobble 3s ease-in-out 7.4s infinite;
+  animation: hatIn .5s ease 2.5s forwards, hatWobble 3s ease-in-out 3.1s infinite;
 }
 
 .hat img {
@@ -194,7 +194,7 @@ body {
   transition: transform .2s, box-shadow .2s;
   animation: pulseBtn 2.4s ease-in-out infinite;
   opacity: 0;
-  animation: btnIn .6s ease 6.8s forwards, pulseBtn 2.4s ease-in-out 7.4s infinite;
+  animation: btnIn .5s ease 2.7s forwards, pulseBtn 2.4s ease-in-out 3.2s infinite;
 }
 
 #btn__letter:hover {
